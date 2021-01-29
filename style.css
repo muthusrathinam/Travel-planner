@@ -1,0 +1,62 @@
+*{
+    font-family: 'Montserrat';
+}
+
+/* section */
+#services_offered{
+    margin-top: 30px;
+}
+
+.services-column{
+    padding: 20px;
+    text-align: center;
+}
+
+.card-title{
+    padding-top: 15px;
+}
+.services-content{
+    margin-top: 20px;
+}
+
+/* Gallery */
+#gallery{
+    margin-top: 50px;
+}
+
+.img-container{
+    text-align: center;
+}
+
+.gallery-content{
+    padding: 30px;
+}
+
+/* btn */
+
+button{
+    margin-top: 50px;
+}
+
+.reserve{
+    padding-top: 100px;
+}
+/* footer */
+
+footer{
+    margin-top: 50px;
+    background-color: black;
+    color: #ffffff;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.footer-link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
